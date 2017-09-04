@@ -7,7 +7,6 @@ import {
   View
 } from 'react-native';
 
-import Button from 'react-native-button';
 import Icon from 'react-native-vector-icons/Ionicons';
 import Slider from 'react-native-slider';
 import Video from 'react-native-video';
